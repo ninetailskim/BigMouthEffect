@@ -1,0 +1,3 @@
+paddlehub
+opencv-python
+numpy
